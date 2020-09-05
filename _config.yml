@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: Ashish Kumar -  Site Reliabilty Engineer
 subtitle: "Version 1.0"
 timezone: Asia/Calcutta
+header:
+  teaser: /assets/images/my-awesome-post-teaser.jpg
