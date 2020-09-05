@@ -36,4 +36,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+---
+layout: form-page
+title: GitHub is now FedRAMP authorized!
+description: Fast, flexible software development that meets federal security standards. Want to learn more about GitHub’s FedRAMP authorization? Let’s talk.
+form: form
+form-id: 88570519
+campaign: "Fedramp Lead Form"
+sf-campaign-id: 7010V000002K5vw
+permalink: /fedramp/
+---
 
