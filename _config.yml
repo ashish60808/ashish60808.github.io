@@ -3,9 +3,17 @@ title: Ashish Kumar -  Site Reliabilty Engineer
 subtitle: Version 1.0
 timezone: Asia/Calcutta
 header:
-  teaser: /assets/images/bio-photo.jpg
+  teaser: assets/images/bio-photo.jpg
 author:
   name     : "Your Name"
-  avatar   : "/assets/images/bio-photo.jpg"
+  avatar   : "assets/images/bio-photo.jpg"
   bio      : "My awesome biography constrained to a sentence or two goes here."
   location : "Somewhere, India"  
+social:
+  type:  # Person or Organization (defaults to Person)
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/yourTwitter"
+    - "https://www.facebook.com/yourFacebook"
+    - "https://instagram.com/yourProfile"
+    - "https://www.linkedin.com/in/yourprofile"  
