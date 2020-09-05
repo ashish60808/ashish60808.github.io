@@ -3,4 +3,9 @@ title: Ashish Kumar -  Site Reliabilty Engineer
 subtitle: Version 1.0
 timezone: Asia/Calcutta
 header:
-  teaser: /assets/images/my-awesome-post-teaser.jpg
+  teaser: /assets/images/bio-photo.jpg
+author:
+  name     : "Your Name"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  location : "Somewhere, India"  
