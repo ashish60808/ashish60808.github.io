@@ -1,12 +1,12 @@
 theme: jekyll-theme-cayman
-title: Ashish Kumar-Site Reliabilty Engineer
+title: Ashish Kumar - Site Reliabilty Engineer
 subtitle: Version 1.0
 timezone: Asia/Calcutta
 header:
-  teaser: assets/images/bio-photo.jpg
+  teaser: /assets/images/bio-photo.jpg
 author:
   name     : "Your Name"
-  avatar   : "assets/images/bio-photo.jpg"
+  avatar   : "/assets/images/bio-photo.jpg"
   bio      : "My awesome biography constrained to a sentence or two goes here."
   location : "Somewhere, India"  
 social:
@@ -34,4 +34,15 @@ author:
       url: "https://github.com/mmistakes"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"    
+      url: "https://instagram.com/mmistakes"          
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"      
