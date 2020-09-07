@@ -8,14 +8,14 @@ oss_projects['osxcollector'] = {
 oss_projects['golang-rest_apis'] = {
   blog_post: 'https://github.com/ashish60808/golang-rest_apis/blob/master/README.md',
   featured: true,
-  position: 1,
+  position: 2,
   background: 'paasta_bg.png'
 };
 oss_projects['python-terraform'] = {
   blog_post: 'https://github.com/ashish60808/python-terraform/blob/master/README.md',
   featured: true,
-  position: 2,
-  background: 'https://linagora.com/wp-content/uploads/2018/05/HashiCorp-Terraform-logo-600x338.png'
+  position: 1,
+  background: 'python-terraform.png'
 }
 oss_projects['ShellScripts'] = {
   blog_post: 'https://github.com/ashish60808/ShellScripts/blob/master/README.md'
