@@ -4857,12 +4857,12 @@ label+.yform-help-block,.yform-help-block label+.yform-help-block {
 .main-header_wrapper {
   padding: 12px 0;
   position: relative;
-  background: #d32323 url(img/structural/header_stars.png) no-repeat center
+  background: #d32323 url(https://github.com/ashish60808/ashish60808.github.io/raw/master/img/structural/header_stars.png) no-repeat center
 x
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   .main-header_wrapper {
-      background:#d32323 url(img/structural/header_stars@2x.png) no-repeat center;
+      background:#d32323 url(https://github.com/ashish60808/ashish60808.github.io/raw/master/img/structural/header_stars@2x.png) no-repeat center;
       background-size: 1135px auto, 100%
   }
 }
