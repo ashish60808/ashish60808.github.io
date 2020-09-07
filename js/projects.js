@@ -5,20 +5,20 @@ oss_projects['Code'] = {
 oss_projects['osxcollector'] = {
   blog_post: 'https://engineeringblog.yelp.com/2015/01/osxcollector-forensic-collection-and-automated-analysis-for-os-x.html',
 };
-oss_projects['paasta'] = {
-  blog_post: 'https://engineeringblog.yelp.com/2015/11/introducing-paasta-an-open-platform-as-a-service.html',
+oss_projects['golang-rest_apis'] = {
+  blog_post: 'https://github.com/ashish60808/golang-rest_apis/blob/master/README.md',
   featured: true,
   position: 1,
   background: 'paasta_bg.png'
 };
-oss_projects['elastalert'] = {
-  blog_post: 'https://engineeringblog.yelp.com/2015/10/elastalert-alerting-at-scale-with-elasticsearch.html',
+oss_projects['python-terraform'] = {
+  blog_post: 'https://github.com/ashish60808/python-terraform/blob/master/README.md',
   featured: true,
   position: 2,
   background: 'elastalert.png'
 }
-oss_projects['mrjob'] = {
-  blog_post: 'https://engineeringblog.yelp.com/2010/10/mrjob-distributed-computing-for-everybody.html'
+oss_projects['ShellScripts'] = {
+  blog_post: 'https://github.com/ashish60808/ShellScripts/blob/master/README.md'
 }
 oss_projects['yelp-ruby'] = {
   blog_post: 'https://engineeringblog.yelp.com/2014/04/more-yelp-in-your-ruby.html'
