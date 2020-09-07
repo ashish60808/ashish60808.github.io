@@ -18,15 +18,15 @@ function getAllPages(urlPrefix, callback, page, results) {
 }
 
 function getGithubRepos(callback, page, repos) {
-  getAllPages('https://api.github.com/users/yelp/repos', callback);
+  getAllPages('https://api.github.com/users/ashish60808/repos', callback);
 }
 
 function getGithubMembers(callback) {
-  getAllPages('https://api.github.com/orgs/yelp/members', callback);
+  getAllPages('https://api.github.com/orgs/ashish60808/members', callback);
 }
 
 function loadRepositoryData(repoData) {
-  var org = new Organization('yelp');
+  var org = new Organization('ashish60808');
   org.repos = [];
 
   repoData.forEach(function(repoDatum) {

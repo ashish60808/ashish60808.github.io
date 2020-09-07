@@ -32,7 +32,7 @@ get_all_pages() {
 # Repos
 
 get_repos() {
-  get_all_pages 'https://api.github.com/users/yelp/repos'
+  get_all_pages 'https://api.github.com/users/ashish60808/repos'
 }
 
 (echo -n '$(function() { loadRepositoryData(' ; get_repos ; echo '); })') > load_repos.js
@@ -40,7 +40,7 @@ get_repos() {
 # Members
 
 get_members() {
-  get_all_pages 'https://api.github.com/orgs/yelp/members'
+  get_all_pages 'https://api.github.com/orgs/ashish60808/members'
 }
 
 (echo -n '$(function() { loadMemberData(' ; get_members ; echo '); })') > load_members.js
