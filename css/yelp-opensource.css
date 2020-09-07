@@ -126,6 +126,11 @@ h3 a i {
 }
 .project .repo-info .Python { color: #228222; }
 .project .repo-info .Ruby { color: #d83800; }
+.project .repo-info .Go { color: #29BEB0; }
+.project .repo-info .Shell { color: #00FF00; }
+.project .repo-info .JavaScript { color: #B2C248; }
+
+
 
 .project .repo-info h3 { margin-bottom: 10px; }
 .project .repo-info span { margin-right: 20px; }
