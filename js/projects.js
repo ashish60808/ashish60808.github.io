@@ -23,7 +23,7 @@ oss_projects['ShellScripts'] = {
 oss_projects['Code'] = {
   blog_post: 'https://github.com/ashish60808/Code/blob/master/README.md'
   featured: true,
-  position: 4,
+  position: 3,
   background: 'mrjob_bg-.png'
 }
 
