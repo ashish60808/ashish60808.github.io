@@ -10,13 +10,13 @@ oss_projects['python-terraform'] = {
 oss_projects['golang-rest_apis'] = {
   blog_post: 'https://github.com/ashish60808/golang-rest_apis/blob/master/README.md',
   featured: true,
-  position: 2,
+  position: 4,
   background: 'test.png'
 };
 oss_projects['ShellScripts'] = {
   blog_post: 'https://github.com/ashish60808/ShellScripts/blob/master/README.md',
   featured: true,
-  position: 4,
+  position: 2,
   background: 'dumb-init.png'
 };
 
