@@ -15,7 +15,7 @@ oss_projects['python-terraform'] = {
   blog_post: 'https://github.com/ashish60808/python-terraform/blob/master/README.md',
   featured: true,
   position: 2,
-  background: 'elastalert.png'
+  background: 'python-terraform.png'
 }
 oss_projects['ShellScripts'] = {
   blog_post: 'https://github.com/ashish60808/ShellScripts/blob/master/README.md'
