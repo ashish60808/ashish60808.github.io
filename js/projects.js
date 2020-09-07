@@ -11,7 +11,7 @@ oss_projects['golang-rest_apis'] = {
   blog_post: 'https://github.com/ashish60808/golang-rest_apis/blob/master/README.md',
   featured: true,
   position: 4,
-  background: 'test.png'
+  background: 'paasta_bg.png'
 };
 oss_projects['ShellScripts'] = {
   blog_post: 'https://github.com/ashish60808/ShellScripts/blob/master/README.md',
