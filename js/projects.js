@@ -1,5 +1,5 @@
 oss_projects = {};
-oss_projects['dockersh'] = {
+oss_projects['kubernetes'] = {
   blog_post: 'https://engineeringblog.yelp.com/2014/08/hack209-dockersh.html'
 }
 oss_projects['osxcollector'] = {
