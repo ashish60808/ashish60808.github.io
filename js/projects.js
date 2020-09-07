@@ -16,14 +16,14 @@ oss_projects['golang-rest_apis'] = {
 oss_projects['ShellScripts'] = {
   blog_post: 'https://github.com/ashish60808/ShellScripts/blob/master/README.md'
   featured: true,
-  position: 3,
+  position: 4,
   background: 'dumb-init.png'
 }
 
 oss_projects['Code'] = {
   blog_post: 'https://github.com/ashish60808/Code/blob/master/README.md'
   featured: true,
-  position: 3,
+  position: 4,
   background: 'mrjob_bg-.png'
 }
 
