@@ -3,7 +3,6 @@
 # Site Reliability Engineer (SRE) Interview Preparation Guide
 
 [![HitCount](http://hits.dwyl.com/ashish/sre-interview-prep-guide.svg)](http://hits.dwyl.com/ashish/sre-interview-prep-guide)
-http://hits.dwyl.com/
 
 This repository is an attempt to consolidate useful resources for Site Reliability Engineer (SRE) interview preparation.
 
