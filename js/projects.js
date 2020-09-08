@@ -27,6 +27,12 @@ oss_projects['Code'] = {
   background: 'mrjob_bg.png'
 };
 
+oss_projects['sre-interview-prep-guide'] = {
+  blog_post: 'https://ashish60808.github.io/blogs/sre_interview_prep_guide',
+  featured: true,
+  position: 5,
+  background: 'moe_bg.png'
+}; 
 
 oss_projects['ansible'] = { deprecated: true }
 
