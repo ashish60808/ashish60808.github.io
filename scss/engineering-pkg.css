@@ -4679,7 +4679,7 @@ label+.yform-help-block,.yform-help-block label+.yform-help-block {
 }
 
 .ltie9 {
-    background: url(https://s3-media2.fl.yelpcdn.com/assets/srv0/yelp_styleguide/573fa19c8435/assets/img/structural/footer_cityscape.png) no-repeat center bottom;
+    background: url(/img/structural/footer_cityscape.png) no-repeat center bottom;
     background-size: 660px 140px;
     margin: 42px auto 18px;
     height: 140px
@@ -4687,13 +4687,13 @@ label+.yform-help-block,.yform-help-block label+.yform-help-block {
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     .ltie9 {
-        background-image:url(https://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/ce4d102c522c/assets/img/structural/footer_cityscape@2x.png)
+        background-image:url(/img/structural/footer_cityscape@2x.png)
     }
 }
 
 @media only screen and (min-width: 990px) {
     .main-footer_city-landscape-img {
-        background:url(https://s3-media2.fl.yelpcdn.com/assets/srv0/yelp_styleguide/573fa19c8435/assets/img/structural/footer_cityscape.png) no-repeat center bottom;
+        background:url(/img/structural/footer_cityscape.png) no-repeat center bottom;
         background-size: 660px 140px;
         margin: 42px auto 18px;
         height: 140px
@@ -4702,12 +4702,12 @@ label+.yform-help-block,.yform-help-block label+.yform-help-block {
 
 @media only screen and (min-width: 990px) and (-webkit-min-device-pixel-ratio: 2), only screen and (min-width: 990px) and (min-resolution: 192dpi) {
     .main-footer_city-landscape-img {
-        background-image:url(https://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/ce4d102c522c/assets/img/structural/footer_cityscape@2x.png)
+        background-image:url(/img/structural/footer_cityscape@2x.png)
     }
 }
 
 .main-footer_city-landscape-img--fixed {
-    background: url(https://s3-media2.fl.yelpcdn.com/assets/srv0/yelp_styleguide/573fa19c8435/assets/img/structural/footer_cityscape.png) no-repeat center bottom;
+    background: url(/img/structural/footer_cityscape.png) no-repeat center bottom;
     background-size: 660px 140px;
     margin: 42px auto 18px;
     height: 140px
@@ -4715,7 +4715,7 @@ label+.yform-help-block,.yform-help-block label+.yform-help-block {
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     .main-footer_city-landscape-img--fixed {
-        background-image:url(https://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/ce4d102c522c/assets/img/structural/footer_cityscape@2x.png)
+        background-image:url(/img/structural/footer_cityscape@2x.png)
     }
 }
 
