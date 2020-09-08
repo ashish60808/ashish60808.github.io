@@ -28,7 +28,7 @@ oss_projects['Code'] = {
 };
 
 oss_projects['sre-interview-prep-guide'] = {
-  blog_post: 'https://ashish60808.github.io/blogs/sre_interview_prep_guide',
+  blog_post: 'https://ashish60808/sre-interview-prep-guide/sre_interview_prep_guide',
   featured: true,
   position: 5,
   background: 'moe_bg.png'
