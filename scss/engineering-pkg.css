@@ -4857,12 +4857,12 @@ label+.yform-help-block,.yform-help-block label+.yform-help-block {
 .main-header_wrapper {
     padding: 12px 0;
     position: relative;
-    background: #d32323 url(https://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/c146b0884f6a/assets/img/structural/header_stars.png) no-repeat center
+    background: #d32323 url(/img/structural/header_stars.png) no-repeat center
 }
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     .main-header_wrapper {
-        background:#d32323 url(https://s3-media2.fl.yelpcdn.com/assets/srv0/yelp_styleguide/15ee41b0c3b2/assets/img/structural/header_stars@2x.png) no-repeat center;
+        background:#d32323 url(/img/structural/header_stars@2x.png) no-repeat center;
         background-size: 1135px auto, 100%
     }
 }
@@ -4906,13 +4906,13 @@ label+.yform-help-block,.yform-help-block label+.yform-help-block {
 }
 
 .main-header_logo {
-    background-image: url(/img/default.png);
+    background-image: url(/img/sre.png);
     background-size: 80px 40px
 }
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     .main-header_logo {
-        background-image:url(/img/default@2x.png)
+        background-image:url(/img/sre@2x.png)
     }
 }
 
