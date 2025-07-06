@@ -1,0 +1,19 @@
+{
+  "date": "2025.05",
+  "entries": [
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "AWS Athena",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "AWS EMR",
+      "active": true,
+      "moved": 0
+    }
+  ]
+}
