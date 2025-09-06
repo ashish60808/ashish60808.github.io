@@ -1,0 +1,105 @@
+site_name: Ashish Kumar
+site_url: https://ashish60808.github.io/
+site_author: Ashish Kumar
+site_description: A website showcasing my skills, experience, and projects.
+nav:
+  - Home: index.md
+  - Experience: experience.md
+  - Skills & Tech-stack: skills.md
+  - Education: education.md
+  - Certifications: certifications.md
+  - About Me: about.md
+
+theme:
+  features:
+    - navigation.tracking
+    - navigation.footer
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - content.tabs.link
+  favicon: images/favicon_new.png
+  icon:
+    logo: fontawesome/brands/creative-commons-by
+  language: en
+  font:
+    text: News Reader
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: brown
+      accent: indigo
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: brown
+      accent: indigo
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+  scheme: default
+  primary: indigo
+  accent: indigo
+
+extra:
+  generator: false
+
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/ashish60808/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ashishkumarsre
+    - icon: fontawesome/brands/github
+      link: https://github.com/ashish60808
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@ashish60808
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<ashish60808@gmail.com>
+
+copyright: Copyright &copy; 2025 &nbsp;Ashish Kumar
+
+extra_css:
+  - stylesheets/extra.css # or wherever your CSS lives
+markdown_extensions:
+  - tables
+  - abbr
+  - admonition
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.blocks.caption
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+plugins:
+  - tags
+#  - search
+#  - table-reader
