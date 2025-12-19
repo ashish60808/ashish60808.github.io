@@ -92,6 +92,19 @@ hide:
     
     :simple-macos: Macos
 
+??? pied-piper-of-hamelin  "pied-piper-of-hamelin "
+
+    === "Networking"
+
+         VPC, Route53, ALB/NLB, WAF
+
+
+??? logfire "logfire"
+
+    === "Networking"
+
+         VPC, Route53, ALB/NLB, WAF
+
 
 
 <!-- [Back to Home](./index.md){ .md-button } -->
