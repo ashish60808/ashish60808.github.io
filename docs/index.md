@@ -23,7 +23,7 @@ Architecting cloud-native systems {==AWS, Kubernetes, Terraform==}, `ECS, EKS, R
 
 
 ---
-[:material-download: Download Resume](https://shorturl.at/aONAK1){ .md-button .md-button--primary }
+[:material-download: Download Resume](https://shorturl.at/8VKnj){ .md-button .md-button--primary }
 
 [![Instagram](./images/svg/Instagram_icon.svg)](https://www.instagram.com/ashish60808/){.md-social\_\_link .md-social}
 [![Github](./images/svg/Github_icon.svg)](https://github.com/ashish60808){.md-social\_\_link .md-social}
